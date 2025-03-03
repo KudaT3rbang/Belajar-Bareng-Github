@@ -1,4 +1,4 @@
 Ceritanya ini belajar github
-- Test 1
+- Tama
 - Test 2
 - Test 3
